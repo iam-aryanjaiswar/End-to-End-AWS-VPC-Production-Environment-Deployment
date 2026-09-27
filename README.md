@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # End-to-End AWS VPC Production Environment Deployment
 
 ![AWS](https://img.shields.io/badge/AWS-VPC-orange?logo=amazonaws)
@@ -377,6 +376,3 @@ NAT Gateways and Elastic IPs are billed, so resources were removed in this order
 LinkedIn: [https://www.linkedin.com/in/aryan-jaiswar/](https://www.linkedin.com/in/aryan-jaiswar/)**
 
 ---
-=======
-# End-to-End-AWS-VPC-Production-Environment-Deployment
->>>>>>> 5e05bd1f1f4e3b206a0dd3ddfd9918c19d8a6771
